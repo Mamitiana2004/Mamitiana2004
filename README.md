@@ -18,7 +18,7 @@
 <p align="left" style="display:flex;gap:20px;">
 <a href="https://www.facebook.com/mamitiana.andria.56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="17376130" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mamitiana042/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aggarwalsz6qg" height="30" width="40" /></a>
-<a href="ttps://wa.me/261341109223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="sahilaggarwal2004" height="30" width="40" /></a>
+<a href="https://wa.me/261341109223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="sahilaggarwal2004" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/faneva-mamitiana-andriaharimanana-677696271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahilaggarwal2004" height="30" width="40" /></a>
 </p>
 
