@@ -58,8 +58,8 @@
 
   <h3>📊 GitHub Stats</h3>
 <p align="center" style="display:flex; justify-content: center;align-items:flex-start; gap:20px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mamitiana2004&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=212428&title_color=50c878&border_color=212428" alt="Mamitiana2004" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mamitiana2004&show_icons=true&theme=dark&locale=en&bg_color=212428&title_color=50c878&border_color=212428" alt="Mamitiana2004" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mamitiana2004&show_icons=true&theme=dark&locale=en&layout=compact&title_color=50c878" alt="Mamitiana2004" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mamitiana2004&show_icons=true&theme=dark&locale=en&title_color=50c878" alt="Mamitiana2004" />
 </p>
 
 
