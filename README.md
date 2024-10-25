@@ -1,6 +1,6 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 
-<div style="background:#212428; padding: 20px; font-family: 'Poppins', sans-serif;">
+<div style="background-color:#212428; padding: 20px; font-family: 'Poppins', sans-serif;">
   <div align="center">
     <img src="https://mamitiana2004.github.io/portfolio/assets/images/logo.png" alt="Mamitiana" width="200" style="border-radius: 40%;"/>
     <h1 style="color:#40c878;">Hi 👋, I'm <span>Mamitiana Faneva</span></h1>
