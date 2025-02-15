@@ -1,11 +1,11 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
 
-<div style="background-color:#212428; padding: 20px; font-family: 'Poppins', sans-serif;">
+<div style="background: linear-gradient(145deg, #1e2024, #23272b); padding: 20px; font-family: 'Poppins', sans-serif;">
   <div align="center">
     <img src="https://mamitiana2004.github.io/portfolio/assets/images/logo.png" alt="Mamitiana" width="200" style="border-radius: 40%;"/>
     <h1 style="color:#40c878;">Hi 👋, I'm <span>Mamitiana Faneva</span></h1>
-    <h3>A passionate full stack web developer from Madagascar</h3>
-
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=20&pause=1000&color=FFFFFF&center=true&width=600&height=60&lines=Full+stack+developer;Javascript+developer;Java+developer;%2B2+year+of+coding" alt="Typing SVG" />
+  
   <p>
       <img src="https://img.shields.io/badge/Location-Madagascar-40c878?style=flat&logo=map-pin&logoColor=white" />
       <img src="https://img.shields.io/badge/Experience-1%20year-40c878?style=flat&logo=calendar&logoColor=white" />
@@ -20,7 +20,7 @@
   <h3>🌟 About Me</h3>
   <ul>
     <li>🚀 I am passionate about developing <strong>scalable web applications</strong> and optimizing <strong>backend systems</strong>.</li>
-    <li>🌱 Currently expanding my knowledge in <strong>Next.js</strong>, <strong>Spring Boot</strong>, <strong>Docker</strong>, and <strong>cloud infrastructures</strong>.</li>
+    <li>🌱 Currently expanding my knowledge in <strong>Next.js</strong>, <strong>Spring Boot</strong>, <strong>Docker</strong>, and <strong>Python</strong>.</li>
     <li>🧑‍💻 Available for <strong>freelance projects</strong> and open-source collaborations.</li>
     <li>💻 My portfolio : <a style="color:#40c878" href="https://mamitiana2004.github.io/portfolio">Faneva Mamitiana - Java Developper</a></li>
   </ul>
@@ -58,8 +58,8 @@
 
   <h3>📊 GitHub Stats</h3>
 <p align="center" style="display:flex; justify-content: center;align-items:flex-start; gap:20px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mamitiana2004&show_icons=true&theme=dark&locale=en&layout=compact&title_color=50c878" alt="Mamitiana2004" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mamitiana2004&show_icons=true&theme=dark&locale=en&title_color=50c878" alt="Mamitiana2004" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mamitiana2004&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=212428&title_color=50c878&border_color=212428" alt="Mamitiana2004" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mamitiana2004&show_icons=true&theme=dark&locale=en&bg_color=212428&title_color=50c878&border_color=212428" alt="Mamitiana2004" />
 </p>
 
 
