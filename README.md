@@ -1,90 +1,92 @@
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+<a href="https://mamitiana-faneva.pages.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="readme/banner-dark.svg">
+    <img alt="Mamitiana Faneva, .NET and fullstack developer" src="readme/banner-light.svg" width="100%">
+  </picture>
+</a>
 
-<div style="background: linear-gradient(145deg, #1e2024, #23272b); padding: 20px; font-family: 'Poppins', sans-serif;">
-  <div align="center">
-    <img src="https://mamitiana2004.github.io/portfolio/assets/images/logo.png" alt="Mamitiana" width="200" style="border-radius: 40%;"/>
-    <h1 style="color:#40c878;">Hi 👋, I'm <span>Mamitiana Faneva</span></h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=20&pause=1000&color=FFFFFF&center=true&width=600&height=60&lines=Full+stack+developer;Javascript+developer;Java+developer;%2B2+year+of+coding" alt="Typing SVG" />
-  
-  <p>
-      <img src="https://img.shields.io/badge/Location-Madagascar-40c878?style=flat&logo=map-pin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Experience-1%20year-40c878?style=flat&logo=calendar&logoColor=white" />
-      <img src="https://img.shields.io/github/followers/Mamitiana2004?label=Follow&style=social" />
-  </p>
-  </div>
-
-  <br />
-  <hr />
-  <br />
-
-  <h3>🌟 About Me</h3>
-  <ul>
-    <li>🚀 I am passionate about developing <strong>scalable web applications</strong> and optimizing <strong>backend systems</strong>.</li>
-    <li>🌱 Currently expanding my knowledge in <strong>Next.js</strong>, <strong>Spring Boot</strong>, <strong>Docker</strong>, and <strong>Python</strong>.</li>
-    <li>🧑‍💻 Available for <strong>freelance projects</strong> and open-source collaborations.</li>
-    <li>💻 My portfolio : <a style="color:#40c878" href="https://mamitiana2004.github.io/portfolio">Faneva Mamitiana - Java Developper</a></li>
-  </ul>
-
-  <br />
-  <hr />
-  <br />
-
-
-  <h3>🛠️ My Tech Stack</h3>
-  <p align="left" style="display:flex; gap:20px;">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  </p>
-
-  <br />
-  <hr />
-  <br />
-
-
-  <h3>📊 GitHub Stats</h3>
-<p align="center" style="display:flex; justify-content: center;align-items:flex-start; gap:20px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mamitiana2004&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=212428&title_color=50c878&border_color=212428" alt="Mamitiana2004" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mamitiana2004&show_icons=true&theme=dark&locale=en&bg_color=212428&title_color=50c878&border_color=212428" alt="Mamitiana2004" />
+<p align="center">
+  <a href="https://mamitiana-faneva.pages.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/contact-portfolio-dark.svg"><img alt="Portfolio: mamitiana-faneva.pages.dev" src="readme/contact-portfolio-light.svg" width="49%"></picture></a>
+  <a href="https://www.linkedin.com/in/faneva-mamitiana"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/contact-linkedin-dark.svg"><img alt="LinkedIn: Faneva Mamitiana" src="readme/contact-linkedin-light.svg" width="49%"></picture></a>
+  <a href="mailto:mamitianafaneva2004@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/contact-email-dark.svg"><img alt="Email: mamitianafaneva2004@gmail.com" src="readme/contact-email-light.svg" width="49%"></picture></a>
+  <a href="https://mamitiana-faneva.pages.dev/assets/CV_2026-11-10_Mamitiana%20Faneva_ANDRIAHARIMANANA.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="readme/contact-cv-dark.svg"><img alt="Download my CV (PDF)" src="readme/contact-cv-light.svg" width="49%"></picture></a>
 </p>
 
+I build backends that hold up in production: **ASP.NET Core APIs at ICP Conseil** since May 2025, and before that Spring Boot, Next.js and Flutter for five companies. I'm now in a **Master 2 BIHAR** (Big Data Intelligence for Human Augmented Reality) at ESTIA, France, and open to freelance missions and full-time roles.
 
+## Now
 
+- **Work** — .NET developer at ICP Conseil, remote · ASP.NET Core, REST APIs
+- **Study** — Master 2 BIHAR at ESTIA engineering school, Bidart, France
+- **Shipping** — [NodaJPA](https://www.npmjs.com/package/nodajpa), a JPA-style ORM for Node.js, on npm
 
+## Selected work
 
-  <br />
-  <hr />
-  <br />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://www.npmjs.com/package/nodajpa"><img src="readme/nodajpa.svg" alt="NodaJPA: a User entity mapped to a table" width="100%"></a>
+      <h3><a href="https://www.npmjs.com/package/nodajpa">NodaJPA</a></h3>
+      A JPA-style ORM for Node.js. Decorators map classes to PostgreSQL tables; an entity manager handles queries, relations and migrations.
+      <br><br><code>TypeScript</code> <code>PostgreSQL</code> <code>ORM</code> · <a href="https://www.npmjs.com/package/nodajpa">npm</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="readme/gestion-dashboard.webp" alt="Gestion Commerciale dashboard: revenue, margin, stock value and a 14-day sales chart" width="100%">
+      <h3>Gestion Commerciale</h3>
+      A Windows app that runs a hardware store: till, stock, invoices, expenses and reports, on one SQLite file shared between workstations, with 105 automated checks on the money.
+      <br><br><code>.NET MAUI 9</code> <code>EF Core</code> <code>SQLite</code> · client project, private code
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="readme/codequest-run.webp" alt="Code Quest running a program step by step on the robot grid" width="100%">
+      <h3>Code Quest</h3>
+      A Windows game that teaches teenagers to code: a BASIC-like program steers a robot through 200 levels in 21 worlds. A home-made interpreter records every step, so a run can pause, rewind and show its variables.
+      <br><br><code>C#</code> <code>.NET MAUI 9</code> <code>Interpreter</code> <code>SQLite</code>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Mamitiana2004/t_rex_runner"><img src="readme/t-rex-runner.webp" alt="T-Rex Runner: the dino on the desert track" width="100%"></a>
+      <h3><a href="https://github.com/Mamitiana2004/t_rex_runner">T-Rex Runner</a></h3>
+      An endless runner after Chrome's offline dino: a game loop, collisions and a score, all in Java Swing.
+      <br><br><code>Java</code> <code>Swing</code> · <a href="https://github.com/Mamitiana2004/t_rex_runner">code</a>
+    </td>
+  </tr>
+</table>
 
-  
-  <h3 align="center">📫 Let's Connect!</h3>
-<p align="center" style="display:flex; justify-content: center; gap:20px;">
-  <a href="https://www.facebook.com/mamitiana.andria.56" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/mamitiana042/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://wa.me/261341109223" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/faneva-mamitiana-andriaharimanana-677696271/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+<details>
+<summary><b>More projects</b></summary>
+<br>
 
-</div>
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| Licence management platform | Software licences managed on a REST backend, with usage shown in real time · *Energetics SARL* | Spring Boot |
+| AfTrip | The frontend of a travel booking platform for tourists · *AkeTech Agency* | Next.js, React |
+| [Java Resources](https://github.com/Mamitiana2004/StartSpace) | Generic Java code that makes starting a new project faster | Java |
+| Clinic management platform | Patient records and appointment scheduling, rendered on the server | Spring Boot, Thymeleaf |
+| PDF manager | A React frontend with a Python service behind it, for handling PDF files | React, Python |
+| Tetris | A two-player Tetris game | Java |
+
+</details>
+
+## Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readme/stack-dark.svg">
+  <img alt="Backend: C#, ASP.NET Core, Java, Spring Boot, Node.js, NestJS, PHP, Laravel, Python, Thymeleaf. Frontend: JavaScript, TypeScript, React, Next.js, Angular, HTML and CSS. Mobile and desktop: .NET MAUI, Flutter, Kotlin, WinForms. Databases: PostgreSQL, MySQL, SQLite, MongoDB. Tools: Git, GitHub, Docker." src="readme/stack-light.svg" width="100%">
+</picture>
+
+## Path
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readme/path-dark.svg">
+  <img alt="May 2025 to now: .NET developer at ICP Conseil, remote. Nov 2024 to Jan 2026: mobile developer at Seven7 Mada. Jul to Oct 2024: frontend developer at AkeTech Agency. Feb 2024 to Jul 2025: fullstack developer at Energetics SARL. Aug to Nov 2023: fullstack intern at Nexitia Technologies. Education: Master 2 BIHAR at ESTIA since Oct 2026; Master's in Computer Science and Bachelor's in Web Development at IT University; scientific baccalaureate at Gallo Junior." src="readme/path-light.svg" width="100%">
+</picture>
+
+<br><br>
+
+<a href="mailto:mamitianafaneva2004@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="readme/cta-dark.svg">
+    <img alt="Need a .NET developer on your team? Let's talk: write to mamitianafaneva2004@gmail.com" src="readme/cta-light.svg" width="100%">
+  </picture>
+</a>
