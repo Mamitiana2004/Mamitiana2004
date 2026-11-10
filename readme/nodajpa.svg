@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 660" width="1280" height="660" role="img" aria-label="NodaJPA: a User entity mapped to a table, then loaded with User.getAll()">
+<rect width="1280" height="660" rx="22" fill="#141311"/>
+<rect width="1280" height="72" rx="22" fill="#1d1b18"/><rect y="50" width="1280" height="22" fill="#1d1b18"/>
+<circle cx="44" cy="36" r="8" fill="#ff5f57"/><circle cx="72" cy="36" r="8" fill="#febc2e"/><circle cx="100" cy="36" r="8" fill="#28c840"/>
+<text x="140" y="43" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="20" fill="#9b968e">user.entity.ts</text>
+<g font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="27">
+  <text x="120" y="190" xml:space="preserve"><tspan fill="#5c5a55"> 1</tspan>    <tspan fill="#3fb36a">@Table</tspan><tspan fill="#d2cfc8">(</tspan><tspan fill="#c3e88d">&quot;utilisateur&quot;</tspan><tspan fill="#d2cfc8">)</tspan></text>
+  <text x="120" y="230" xml:space="preserve"><tspan fill="#5c5a55"> 2</tspan>    <tspan fill="#c792ea">class </tspan><tspan fill="#82aaff">User </tspan><tspan fill="#c792ea">extends </tspan><tspan fill="#82aaff">Entity </tspan><tspan fill="#d2cfc8">{</tspan></text>
+  <text x="120" y="270" xml:space="preserve"><tspan fill="#5c5a55"> 3</tspan>    <tspan fill="#d2cfc8">  </tspan><tspan fill="#3fb36a">@Column</tspan><tspan fill="#d2cfc8">({ primary_key: </tspan><tspan fill="#f78c6c">true</tspan><tspan fill="#d2cfc8"> })</tspan></text>
+  <text x="120" y="310" xml:space="preserve"><tspan fill="#5c5a55"> 4</tspan>    <tspan fill="#d2cfc8">  id: </tspan><tspan fill="#82aaff">number</tspan><tspan fill="#d2cfc8">;</tspan></text>
+  <text x="120" y="350" xml:space="preserve"><tspan fill="#5c5a55"> 5</tspan>    </text>
+  <text x="120" y="390" xml:space="preserve"><tspan fill="#5c5a55"> 6</tspan>    <tspan fill="#d2cfc8">  </tspan><tspan fill="#3fb36a">@ManyToOne</tspan><tspan fill="#d2cfc8">({ joinColumn: </tspan><tspan fill="#c3e88d">&quot;id_genre&quot;</tspan><tspan fill="#d2cfc8"> })</tspan></text>
+  <text x="120" y="430" xml:space="preserve"><tspan fill="#5c5a55"> 7</tspan>    <tspan fill="#d2cfc8">  genre: </tspan><tspan fill="#82aaff">Genre</tspan><tspan fill="#d2cfc8">;</tspan></text>
+  <text x="120" y="470" xml:space="preserve"><tspan fill="#5c5a55"> 8</tspan>    <tspan fill="#d2cfc8">}</tspan></text>
+  <text x="120" y="510" xml:space="preserve"><tspan fill="#5c5a55"> 9</tspan>    </text>
+  <text x="120" y="550" xml:space="preserve"><tspan fill="#5c5a55">10</tspan>    <tspan fill="#c792ea">const </tspan><tspan fill="#d2cfc8">users = </tspan><tspan fill="#c792ea">await </tspan><tspan fill="#82aaff">User</tspan><tspan fill="#d2cfc8">.</tspan><tspan fill="#ffcb6b">getAll</tspan><tspan fill="#d2cfc8">();</tspan></text>
+</g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 112" width="620" height="112" role="img" aria-label="CV: Download the PDF">
+<style>
+  .in { opacity: 0; animation: in 0.8s cubic-bezier(0.22, 1, 0.36, 1) forwards; }
+  .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.6s cubic-bezier(0.65, 0, 0.35, 1) forwards 0.2s; }
+  .ping { transform-box: fill-box; transform-origin: center; animation: ping 2.2s cubic-bezier(0, 0, 0.2, 1) infinite; }
+  @keyframes in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @keyframes ping { 0% { transform: scale(1); opacity: 0.55; } 75%, 100% { transform: scale(2.6); opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .in, .draw, .ping { animation: none; opacity: 1; stroke-dashoffset: 0; } .ping { opacity: 0; } }
+</style>
+<g class="in"><rect x="0.5" y="0.5" width="619" height="111" rx="26" fill="#151515" stroke="rgba(255,255,255,0.08)"/><rect x="24" y="24" width="64" height="64" rx="20" fill="#2a2a2a"/><svg x="40" y="40" width="32" height="32" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15V3m9 12v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10l5 5l5-5"/></svg><text x="112" y="49" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14" letter-spacing="2" fill="#9b968e">CV</text><text x="112" y="80" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="-0.4" fill="#f2f0ec">Download the PDF</text><svg x="560" y="42" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#9b968e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 5v14m-6-6l6 6l6-6"/></svg></g>
+</svg>

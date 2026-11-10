@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 250" width="1280" height="250" role="img" aria-label="Need a .NET developer on your team? Let's talk: start a conversation by email.">
+<style>
+  .in { opacity: 0; animation: in 0.8s cubic-bezier(0.22, 1, 0.36, 1) forwards; }
+  .draw { stroke-dasharray: 1000; stroke-dashoffset: 1000; animation: draw 1.6s cubic-bezier(0.65, 0, 0.35, 1) forwards 0.2s; }
+  .ping { transform-box: fill-box; transform-origin: center; animation: ping 2.2s cubic-bezier(0, 0, 0.2, 1) infinite; }
+  @keyframes in { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @keyframes ping { 0% { transform: scale(1); opacity: 0.55; } 75%, 100% { transform: scale(2.6); opacity: 0; } }
+  @media (prefers-reduced-motion: reduce) { .in, .draw, .ping { animation: none; opacity: 1; stroke-dashoffset: 0; } .ping { opacity: 0; } }
+</style>
+<defs><radialGradient id="glow" cx="100%" cy="0%" r="70%"><stop offset="0" stop-color="#3fb36a" stop-opacity="0.28"/><stop offset="1" stop-color="#3fb36a" stop-opacity="0"/></radialGradient></defs><rect x="0.5" y="0.5" width="1279" height="249" rx="28" fill="#fbfaf7" stroke="rgba(20,18,14,0.1)"/><rect x="0.5" y="0.5" width="1279" height="249" rx="28" fill="url(#glow)"/><g class="in"><text x="56" y="70" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="14" letter-spacing="2" fill="#6b665e">CONTACT</text><text x="52" y="132" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-2" fill="#141311">Need a .NET developer on your team?</text><text x="52" y="190" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-2" fill="#1f7a43">Let's talk.</text></g><g class="in" style="animation-delay:0.2s"><rect x="908" y="146" width="316" height="60" rx="30" fill="#141311"/><text x="1044" y="184" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#fbfaf7">Start a conversation</text><svg x="1168" y="164" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fbfaf7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14m-7-7l7 7l-7 7"/></svg></g>
+</svg>
